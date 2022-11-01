@@ -10,3 +10,22 @@
 .konten{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+/* Membuat font weight */
+/* selector id */
+#p1{
+    /* Font Weightnya normal */
+    font-weight: normal;
+}
+#p2{
+    /* Font Weightnya lighter */
+    font-weight: lighter;
+}
+#p3{
+    /* Font Weightnya Bold */
+    font-weight: bold;
+}
+#p4{
+    /* Font Weight custom 100 s.d 900 */
+    font-weight: 900;
+}
