@@ -29,3 +29,33 @@
     /* Font Weight custom 100 s.d 900 */
     font-weight: 900;
 }
+
+/* Membuat font variants */
+.v1{
+    font-variant: normal;
+}
+.v2{
+    font-variant: small-caps;
+}
+
+/* Membuat font-style */
+.f1{
+    font-style: normal;
+}
+.f2{
+    font-style: italic;
+}
+
+/* Membuat line-height */
+.lorem-1{
+    line-height: normal;
+}
+.lorem-2{
+    line-height: 1.6;
+}
+.lorem-3{
+    line-height: 80%;
+}
+.lorem-4{
+    line-height: 200%;
+}
