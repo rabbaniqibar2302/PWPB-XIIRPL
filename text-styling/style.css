@@ -24,3 +24,26 @@
     text-align: justify;
 }
 
+/* text style indent */
+.indent-text{
+    text-indent: 50px;
+}
+
+/* text decoration + transform + letter and word spacing*/
+.decor h2{
+    text-decoration: overline;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+.decor h3{
+    text-decoration: line-through;
+    text-transform: lowercase;
+    word-spacing: 30px;
+}
+.decor h4{
+    text-decoration: underline;
+    text-transform: capitalize;
+}
+.decor h5{
+    text-decoration: underline overline;
+}
