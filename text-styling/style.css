@@ -1,0 +1,26 @@
+/* class selector */
+/* text styling color */
+.p1{
+    color: green;
+}
+.p2{
+    color: orange;
+}
+.p3{
+    color: yellow;
+}
+
+/* text styling align */
+.a{
+    text-align: center;
+}
+.b{
+    text-align: left;
+}
+.c{
+    text-align: right;
+}
+.d{
+    text-align: justify;
+}
+
