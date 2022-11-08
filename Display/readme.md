@@ -1,0 +1,2 @@
+1. Display Inline , inline-block , none tidak berfungsi untuk pemakaian pengaturan div , anda bisa meluruskan kalimat atau satu paragraf dengan inline tetapi tidak dengan div 
+2. Baiknya menggunakan span untuk mengidentifikasikan masing masing elemen 
