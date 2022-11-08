@@ -2,10 +2,34 @@ em{
     background-color: yellow;
 }
 
-a{
+/* a{ */
     /*perbedaan antara inline dan inline-block adalah inline tidak bisa di atur untuk tinggi dan mengikuti besarnya didalam konten inline , inline-block fleksibel bisa menggunakan tinggi dan lebar*/
-    display: inline-block;
+    /* display: inline-block;
     background-color: lightblue;
     width: 50px;
-    height: 50px;
+    height: 50px; */
+/* } */
+
+h2, ul, li, p {
+    background-color: #CCCCCC;
+}
+
+/* ul{ */
+    /* display block merubah framenya tetapi tidak merubah isi dari elemen */
+    /* display: block;
+    width: 100px;
+    height: 130px;
+/* } */
+
+
+/* ul li a{
+    size: 20px;
+} */
+
+.hati{
+    /* Fungsi display none untuk menghilangkan elemen */
+    width: 150px;
+    height: 150px;
+    background-color: lightpink;
+    display: none;
 }
